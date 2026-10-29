@@ -1,4 +1,4 @@
-# ImageJ Automation Pipelines for Fluorescence Microscopy
+# ImageJ Basic Batch Macros for Fluorescence Microscopy
 
 ## Overview
 This repository contains a suite of ImageJ/Fiji macros designed to automate the processing, extraction, and standardization of multi-channel fluorescence microscopy data. They are separated to individual modules for customized use.
